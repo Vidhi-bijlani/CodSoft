@@ -33,3 +33,5 @@ Built with **Python, Streamlit, and BLIP Transformer Model**.
 ```bash
 git clone <your-repo-link>
 cd Image-Captioning-AI
+
+<img width="1920" height="954" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/5a824c7f-6692-4917-92b5-5c4ac5a9d180" />
