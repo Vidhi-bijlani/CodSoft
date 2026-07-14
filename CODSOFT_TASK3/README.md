@@ -37,5 +37,14 @@ cd Image-Captioning-AI/CodSoft/Task3
 
 ## Demo
 
-### Image captiong model
-![Working Demo](Demo.png)
+### 1. Loading of site
+![Input Example](Demo.png)
+
+### 2. Asking for the image
+![Output Example](Demo2.png)
+
+### 3. Selection of caption style
+![Webcam Demo](Demo3.png)
+
+### 4. Generated caption
+![Error Case](Demo4.png)
