@@ -37,4 +37,4 @@ cd Image-Captioning-AI/CodSoft/Task3
 ## Demo
 
 ### Image captiong model
-![Working Demo](Screenshot(323).png)
+![Working Demo](Demo.png)
