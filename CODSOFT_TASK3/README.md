@@ -33,6 +33,7 @@ Built with **Python, Streamlit, and BLIP Transformer Model**.
 ```bash
 git clone https://github.com/Vidhi-bijlani/CodSoft.git
 cd Image-Captioning-AI/CodSoft/Task3
+```
 
 ## Demo
 
