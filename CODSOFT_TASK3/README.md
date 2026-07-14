@@ -48,3 +48,6 @@ cd Image-Captioning-AI/CodSoft/Task3
 
 ### 4. Generated caption
 ![Error Case](Demo4.png)
+
+---
+**Developed for: CodSoft Internship 2026**
