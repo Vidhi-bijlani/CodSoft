@@ -22,10 +22,10 @@ Built with **Python, Streamlit, Pandas, and Scikit-learn**.
 ## Demo
 
 ### 📸 Way 1
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ### 📸 Way 2
-![App Screenshot](screenshot2.png)
+![App Screenshot](Screenshot2.png)
 
 ---
 **Developed for: CodSoft Internship 2026**
