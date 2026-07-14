@@ -37,4 +37,4 @@ cd Image-Captioning-AI CodSoft Task 3
 ##Demo
 
 ###Image captiong model
-![Working Demo](E:/TASK3/Screenshot (323).png)
+![Working Demo](Screenshot (323).png)
