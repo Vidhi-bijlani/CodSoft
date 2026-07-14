@@ -31,10 +31,10 @@ Built with **Python, Streamlit, and BLIP Transformer Model**.
 
 ### 1. Clone the repository
 ```bash
-git clone (https://github.com/Vidhi-bijlani/CodSoft.git)
-cd Image-Captioning-AI CodSoft Task 3
+git clone https://github.com/Vidhi-bijlani/CodSoft.git
+cd Image-Captioning-AI/CodSoft/Task3
 
-##Demo
+## Demo
 
-###Image captiong model
-![Working Demo](Screenshot (323).png)
+### Image captiong model
+![Working Demo](Screenshot(323).png)
